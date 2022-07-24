@@ -1,1 +1,2 @@
 # CountDown
+Countdown to control the main stage, send messages like a Stage Display importing data from Excel Sheets with the texts to show and the time in minutes that the person provided, and make a full screen with the information, time, and the clock in realtime. In another view, you can send messages or go back to the previous statement.
